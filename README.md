@@ -11,6 +11,7 @@
     <a href="https://github.com/ddosify/ddosify-docker-extension/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/LICENSE-AGPL--3.0-orange?style=for-the-badge&logo=none" alt="ddosify license" /></a>
     <a href="https://discord.gg/9KdnrSUZQg" target="_blank"><img src="https://img.shields.io/discord/898523141788287017?style=for-the-badge&logo=discord&label=DISCORD" alt="ddosify discord server" /></a>
     <a href="https://hub.docker.com/r/ddosify/ddosify-docker-extension" target="_blank"><img src="https://img.shields.io/docker/v/ddosify/ddosify-docker-extension?style=for-the-badge&logo=docker&label=docker&sort=semver" alt="ddosify docker extension docker image" /></a>
+    <a href="https://gurubase.io/g/anteon" target="_blank"><img src="https://img.shields.io/badge/Gurubase-Ask%20Anteon%20Guru-006BFF?style=for-the-badge&logo=none" alt="Gurubase" /></a>
 </p>
 
 <p align="center">
@@ -93,3 +94,5 @@ Ddosify is created for testing the performance of web applications. Users must b
 ## License
 
 Licensed under the AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
+
+Badge: [![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Anteon%20Guru-006BFF)](https://gurubase.io/g/anteon)
